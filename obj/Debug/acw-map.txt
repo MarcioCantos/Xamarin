@@ -1,0 +1,24 @@
+App1.PizzaActivity, App1;md5579855c995bdb073d8182511e793544c.PizzaActivity
+App1.PizzaActivity, App1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5579855c995bdb073d8182511e793544c.PizzaActivity
+App1.PizzaActivity;md5579855c995bdb073d8182511e793544c.PizzaActivity
+app1.PizzaActivity;md5579855c995bdb073d8182511e793544c.PizzaActivity
+App1.CalculosActivity, App1;md5579855c995bdb073d8182511e793544c.CalculosActivity
+App1.CalculosActivity, App1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5579855c995bdb073d8182511e793544c.CalculosActivity
+App1.CalculosActivity;md5579855c995bdb073d8182511e793544c.CalculosActivity
+app1.CalculosActivity;md5579855c995bdb073d8182511e793544c.CalculosActivity
+App1.MainActivity, App1;md5579855c995bdb073d8182511e793544c.MainActivity
+App1.MainActivity, App1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5579855c995bdb073d8182511e793544c.MainActivity
+App1.MainActivity;md5579855c995bdb073d8182511e793544c.MainActivity
+app1.MainActivity;md5579855c995bdb073d8182511e793544c.MainActivity
+App1.PopupActivity, App1;md5579855c995bdb073d8182511e793544c.PopupActivity
+App1.PopupActivity, App1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5579855c995bdb073d8182511e793544c.PopupActivity
+App1.PopupActivity;md5579855c995bdb073d8182511e793544c.PopupActivity
+app1.PopupActivity;md5579855c995bdb073d8182511e793544c.PopupActivity
+App1.RadioGroupColor, App1;md5579855c995bdb073d8182511e793544c.RadioGroupColor
+App1.RadioGroupColor, App1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5579855c995bdb073d8182511e793544c.RadioGroupColor
+App1.RadioGroupColor;md5579855c995bdb073d8182511e793544c.RadioGroupColor
+app1.RadioGroupColor;md5579855c995bdb073d8182511e793544c.RadioGroupColor
+App1.ResultadoAreaCilindroActivity, App1;md5579855c995bdb073d8182511e793544c.ResultadoAreaCilindroActivity
+App1.ResultadoAreaCilindroActivity, App1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5579855c995bdb073d8182511e793544c.ResultadoAreaCilindroActivity
+App1.ResultadoAreaCilindroActivity;md5579855c995bdb073d8182511e793544c.ResultadoAreaCilindroActivity
+app1.ResultadoAreaCilindroActivity;md5579855c995bdb073d8182511e793544c.ResultadoAreaCilindroActivity

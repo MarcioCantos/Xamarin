@@ -1,0 +1,70 @@
+c:\users\1623232\source\repos\App1\App1\bin\Debug\App1.dll
+c:\users\1623232\source\repos\App1\App1\bin\Debug\App1.pdb
+c:\users\1623232\source\repos\App1\App1\bin\Debug\App1.App1.apk
+c:\users\1623232\source\repos\App1\App1\bin\Debug\App1.App1-Signed.apk
+c:\users\1623232\source\repos\App1\App1\obj\Debug\App1.csprojResolveAssemblyReference.cache
+c:\users\1623232\source\repos\App1\App1\obj\Debug\App1.csproj.CoreCompileInputs.cache
+c:\users\1623232\source\repos\App1\App1\obj\Debug\App1.dll
+c:\users\1623232\source\repos\App1\App1\obj\Debug\App1.pdb
+c:\users\1623232\source\repos\App1\App1\obj\Debug\android\bin\App1.App1.apk
+c:\users\1623232\source\repos\App1\App1\obj\Debug\res\layout\main.xml
+c:\users\1623232\source\repos\App1\App1\obj\Debug\res\values\strings.xml
+c:\users\1623232\source\repos\App1\App1\obj\Debug\R.cs.flag
+c:\users\1623232\source\repos\App1\App1\obj\Debug\uploadflags.txt
+c:\users\1623232\source\repos\App1\App1\bin\Debug\App1.dll.mdb
+c:\users\1623232\source\repos\App1\App1\obj\Debug\android\assets\App1.dll.mdb
+C:\Users\1623232\source\repos\App1\App1\obj\Debug\res\layout\areacilindro.xml
+C:\Users\Marcio Cantos\Documents\Estudos\Xamarin\cantos_calculo\App1\App1\bin\Debug\App1.dll
+C:\Users\Marcio Cantos\Documents\Estudos\Xamarin\cantos_calculo\App1\App1\bin\Debug\App1.pdb
+C:\Users\Marcio Cantos\Documents\Estudos\Xamarin\cantos_calculo\App1\App1\bin\Debug\App1.App1.apk
+C:\Users\Marcio Cantos\Documents\Estudos\Xamarin\cantos_calculo\App1\App1\bin\Debug\App1.App1-Signed.apk
+C:\Users\Marcio Cantos\Documents\Estudos\Xamarin\cantos_calculo\App1\App1\obj\Debug\App1.csproj.CoreCompileInputs.cache
+C:\Users\Marcio Cantos\Documents\Estudos\Xamarin\cantos_calculo\App1\App1\obj\Debug\App1.dll
+C:\Users\Marcio Cantos\Documents\Estudos\Xamarin\cantos_calculo\App1\App1\obj\Debug\App1.pdb
+C:\Users\Marcio Cantos\Documents\Estudos\Xamarin\cantos_calculo\App1\App1\obj\Debug\android\bin\App1.App1.apk
+C:\Users\Marcio Cantos\Documents\Estudos\Xamarin\cantos_calculo\App1\App1\obj\Debug\res\layout\areacilindro.xml
+C:\Users\Marcio Cantos\Documents\Estudos\Xamarin\cantos_calculo\App1\App1\obj\Debug\res\layout\resultadoareacilindro.xml
+C:\Users\Marcio Cantos\Documents\Estudos\Xamarin\cantos_calculo\App1\App1\obj\Debug\res\layout\radiogroupcolorlayout.xml
+C:\Users\Marcio Cantos\Documents\Estudos\Xamarin\cantos_calculo\App1\App1\obj\Debug\res\layout\pizzalayout.xml
+C:\Users\Marcio Cantos\Documents\Estudos\Xamarin\cantos_calculo\App1\App1\obj\Debug\res\layout\popuplayout.xml
+C:\Users\Marcio Cantos\Documents\Estudos\Xamarin\cantos_calculo\App1\App1\obj\Debug\res\layout\main.xml
+C:\Users\Marcio Cantos\Documents\Estudos\Xamarin\cantos_calculo\App1\App1\obj\Debug\res\values\strings.xml
+C:\Users\Marcio Cantos\Documents\Estudos\Xamarin\cantos_calculo\App1\App1\obj\Debug\res\menu\menupopup.xml
+C:\Users\Marcio Cantos\Documents\Estudos\Xamarin\cantos_calculo\App1\App1\obj\Debug\R.cs.flag
+C:\Users\Marcio Cantos\Documents\Estudos\Xamarin\cantos_calculo\App1\App1\obj\Debug\uploadflags.txt
+C:\Users\Marcio Cantos\Documents\Estudos\Xamarin\cantos_calculo\App1\App1\bin\Debug\Mono.Android.pdb
+C:\Users\Marcio Cantos\Documents\Estudos\Xamarin\cantos_calculo\App1\App1\bin\Debug\mscorlib.pdb
+C:\Users\Marcio Cantos\Documents\Estudos\Xamarin\cantos_calculo\App1\App1\bin\Debug\System.Core.pdb
+C:\Users\Marcio Cantos\Documents\Estudos\Xamarin\cantos_calculo\App1\App1\bin\Debug\System.pdb
+C:\Users\Marcio Cantos\Documents\Estudos\Xamarin\cantos_calculo\App1\App1\bin\Debug\System.Xml.pdb
+C:\Users\Marcio Cantos\Documents\Estudos\Xamarin\cantos_calculo\App1\App1\bin\Debug\System.Net.Http.pdb
+C:\Users\Marcio Cantos\Documents\Estudos\Xamarin\cantos_calculo\App1\App1\bin\Debug\System.Runtime.Serialization.pdb
+C:\Users\Marcio Cantos\Documents\Estudos\Xamarin\cantos_calculo\App1\App1\bin\Debug\System.ServiceModel.Internals.pdb
+C:\Users\Marcio Cantos\Documents\Estudos\Xamarin\cantos_calculo\App1\App1\bin\Debug\Mono.Security.pdb
+C:\Users\Marcio Cantos\Documents\Estudos\Xamarin\cantos_calculo\App1\App1\bin\Debug\System.ComponentModel.Composition.pdb
+C:\Users\Marcio Cantos\Documents\Estudos\Xamarin\cantos_calculo\App1\App1\obj\Debug\linksrc\Mono.Android.pdb
+C:\Users\Marcio Cantos\Documents\Estudos\Xamarin\cantos_calculo\App1\App1\obj\Debug\linksrc\mscorlib.pdb
+C:\Users\Marcio Cantos\Documents\Estudos\Xamarin\cantos_calculo\App1\App1\obj\Debug\linksrc\System.Core.pdb
+C:\Users\Marcio Cantos\Documents\Estudos\Xamarin\cantos_calculo\App1\App1\obj\Debug\linksrc\System.pdb
+C:\Users\Marcio Cantos\Documents\Estudos\Xamarin\cantos_calculo\App1\App1\obj\Debug\linksrc\System.Xml.pdb
+C:\Users\Marcio Cantos\Documents\Estudos\Xamarin\cantos_calculo\App1\App1\obj\Debug\linksrc\System.Net.Http.pdb
+C:\Users\Marcio Cantos\Documents\Estudos\Xamarin\cantos_calculo\App1\App1\obj\Debug\linksrc\System.Runtime.Serialization.pdb
+C:\Users\Marcio Cantos\Documents\Estudos\Xamarin\cantos_calculo\App1\App1\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+C:\Users\Marcio Cantos\Documents\Estudos\Xamarin\cantos_calculo\App1\App1\obj\Debug\linksrc\Mono.Security.pdb
+C:\Users\Marcio Cantos\Documents\Estudos\Xamarin\cantos_calculo\App1\App1\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+C:\Users\Marcio Cantos\Documents\Estudos\Xamarin\cantos_calculo\App1\App1\obj\Debug\linksrc\App1.dll.mdb
+C:\Users\Marcio Cantos\Documents\Estudos\Xamarin\cantos_calculo\App1\App1\obj\Debug\App1.csprojResolveAssemblyReference.cache
+C:\Users\Marcio Cantos\Documents\Estudos\Xamarin\cantos_calculo\App1\App1\bin\Debug\App1.dll.mdb
+C:\Users\Marcio Cantos\Documents\Estudos\Xamarin\cantos_calculo\App1\App1\obj\Debug\android\assets\App1.dll.mdb
+C:\Users\Marcio Cantos\Documents\Estudos\Xamarin\cantos_calculo\App1\App1\obj\Debug\android\assets\Mono.Android.pdb
+C:\Users\Marcio Cantos\Documents\Estudos\Xamarin\cantos_calculo\App1\App1\obj\Debug\android\assets\Mono.Security.pdb
+C:\Users\Marcio Cantos\Documents\Estudos\Xamarin\cantos_calculo\App1\App1\obj\Debug\android\assets\mscorlib.pdb
+C:\Users\Marcio Cantos\Documents\Estudos\Xamarin\cantos_calculo\App1\App1\obj\Debug\android\assets\System.ComponentModel.Composition.pdb
+C:\Users\Marcio Cantos\Documents\Estudos\Xamarin\cantos_calculo\App1\App1\obj\Debug\android\assets\System.Core.pdb
+C:\Users\Marcio Cantos\Documents\Estudos\Xamarin\cantos_calculo\App1\App1\obj\Debug\android\assets\System.Net.Http.pdb
+C:\Users\Marcio Cantos\Documents\Estudos\Xamarin\cantos_calculo\App1\App1\obj\Debug\android\assets\System.pdb
+C:\Users\Marcio Cantos\Documents\Estudos\Xamarin\cantos_calculo\App1\App1\obj\Debug\android\assets\System.Runtime.Serialization.pdb
+C:\Users\Marcio Cantos\Documents\Estudos\Xamarin\cantos_calculo\App1\App1\obj\Debug\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\Marcio Cantos\Documents\Estudos\Xamarin\cantos_calculo\App1\App1\obj\Debug\android\assets\System.Xml.pdb
+C:\Users\Marcio Cantos\Documents\Estudos\Xamarin\cantos_calculo\App1\App1\bin\Debug\App1.dll
+C:\Users\Marcio Cantos\Documents\Estudos\Xamarin\cantos_calculo\App1\App1\obj\Debug\linksrc\App1.dll.mdb
